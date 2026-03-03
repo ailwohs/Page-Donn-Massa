@@ -28,4 +28,6 @@ Os pedidos são realizados exclusivamente via **WhatsApp**.
 
 
 ```md
-![Preview Donna Massa](./preview.png)
+<p align="center">
+  <img src="./preview.png" width="800"/>
+</p>
