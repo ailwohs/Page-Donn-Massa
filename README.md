@@ -26,8 +26,6 @@ Os pedidos são realizados exclusivamente via **WhatsApp**.
 
 ## 🖼️ Preview do Projeto
 
-> Coloque a imagem do site dentro da pasta do projeto (ex: `public/preview.png`)
-> e mantenha o nome igual ao usado abaixo.
 
 ```md
 ![Preview Donna Massa](./preview.png)
