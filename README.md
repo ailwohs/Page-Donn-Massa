@@ -30,4 +30,4 @@ Os pedidos são realizados exclusivamente via **WhatsApp**.
 > e mantenha o nome igual ao usado abaixo.
 
 ```md
-![Preview Donna Massa](./public/preview.png)
+![Preview Donna Massa](./preview.png)
