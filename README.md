@@ -27,7 +27,6 @@ Os pedidos são realizados exclusivamente via **WhatsApp**.
 ## 🖼️ Preview do Projeto
 
 
+
 ```md
-<p align="center">
-  <img src="../donna-massa-site-launch/preview.png" width="800"/>
-</p>
+![Preview Donna Massa](./preview.png)
