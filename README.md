@@ -29,5 +29,5 @@ Os pedidos são realizados exclusivamente via **WhatsApp**.
 
 ```md
 <p align="center">
-  <img src="./preview.png" width="800"/>
+  <img src="../donna-massa-site-launch/preview.png" width="800"/>
 </p>
